@@ -6,7 +6,9 @@ It is designed to create a scheme so that a "replace" command from a text editor
 When run, it explains the input format needed, and is avaliable in Spanish and English. Imagine the input were:
 
 TableA TableB   # Name for the tables to be used.
+
 4 2             # Respectively, number of fields for each table.
+
 2 1             # Respectively, number of registries to be inserted on each table.
 
 The output file, named "insert.sql", will contain:
