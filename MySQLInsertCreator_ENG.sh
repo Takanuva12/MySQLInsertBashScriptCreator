@@ -73,7 +73,7 @@ for i in "${!tablas[@]}"; do
     while [ $registryNumber -gt 0 ]; do     #Concatenates the previous registry insert with the next.
         finalR+="INSERT INTO ${tablas[i]} VALUES
         ($singleTempField);
-        "
+"
         (( registryNumber=registryNumber-1 ));
     done
 
