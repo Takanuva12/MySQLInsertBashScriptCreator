@@ -32,4 +32,4 @@ Finally, the file can be imported to MySQL with ease by previously selecting the
 
 mysql> source /parthtothefile/insert.sql
 
-I hope you may find as usefull as I did.
+I hope you may find it as usefull as I did.
