@@ -1,3 +1,4 @@
+#!/bin/bash
 # MIT LICENSE
 # Copyright (C) 2021 Jose Luis Arias Arcos
 
