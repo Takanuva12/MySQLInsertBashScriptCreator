@@ -15,8 +15,10 @@ The output file, named "insert.sql", will contain:
 
 INSERT INTO TableA VALUES
         ('TableA1','TableA2','TableA3','TableA4');
+        
 INSERT INTO TableA VALUES
         ('TableA1','TableA2','TableA3','TableA4');
+        
         
 INSERT INTO TableB VALUES
         ('TableB1','TableB2');
